@@ -17,4 +17,7 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ### Últimos projetos:
-https://youtu.be/afHRokiyVSk
+Mail CS50: https://youtu.be/afHRokiyVSk
+Commerce CS50: https://youtu.be/p_T3jNdH5yQ
+Wiki CS50: https://youtu.be/UMMp6tzJjdQ
+Search CS50: https://youtu.be/XiwGebjhyAY
