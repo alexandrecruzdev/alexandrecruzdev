@@ -17,6 +17,9 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ### Últimos projetos:
+
+Calculadora (Kivy): https://youtu.be/jWMk5Z_VT0E
+
 Mail CS50: https://youtu.be/afHRokiyVSk
 
 Commerce CS50: https://youtu.be/p_T3jNdH5yQ
